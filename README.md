@@ -6,18 +6,6 @@ Rather than focusing on complex modeling techniques or production-scale machine 
 
 The project explores machine learning not as a black-box exercise, but as an extension of structured analytical thinking.
 
----
-
-# 🧩 File Overview
-
-| File Name                  | Purpose                                                         |
-| -------------------------- | --------------------------------------------------------------- |
-| `StereoType.ipynb`         | End-to-end machine learning workflow and instructional notebook |
-| `music.csv`                | Sample dataset used for classification modeling                 |
-| `music-recommender.joblib` | Serialized trained model for reuse and prediction               |
-| `StereoType.pdf`           | Exported walkthrough and instructional presentation artifact    |
-
----
 
 # 🔎 Key Features
 
